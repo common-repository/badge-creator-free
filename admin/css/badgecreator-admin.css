@@ -1,0 +1,35 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .section-title{
+ 	font-size: 1.2em !important;
+    font-weight: 700 !important;
+    margin-top: 5% !important;
+    padding: 0 !important;
+    margin-bottom: 1% !important;
+ } 
+
+
+ #set-badge-image{
+ 	font-size: 1.2em !important;
+    margin-right: 2%;
+    border-radius: 50px;
+    border: 1px solid #0073aa;
+    padding: 1% 2% 1% 2%;
+    color: #ffffff;
+    background-color: #0073aa;
+    text-decoration:none;
+ }   
+
+ #remove-badge-image{
+ 	font-size: 1.2em !important;
+    margin-right: 2%;
+    border-radius: 50px;
+    border: 1px solid #d6071b;
+    padding: 1% 2% 1% 2%;
+    color: #ffffff;
+    background-color: #d6071b;
+    text-decoration:none;
+ }   
